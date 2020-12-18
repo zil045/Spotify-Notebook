@@ -1,8 +1,7 @@
 # Spotify Notebook
- This is Python section of the capstone on Spotify, mainly to explore data analysis techniques and presentation style with python.
+This is Python section of the capstone on Spotify, mainly to explore data analysis techniques and presentation style with python.  
+This serves to be a basis for the dashboards created.
 
- This serves to be a basis for the dashboards created.
-=======
 ## Intoduction
 This is a data visualization and analysis done with python and jupyter notbook in the file named **Spotify.ipynb**
 ## Understanding the Categories
