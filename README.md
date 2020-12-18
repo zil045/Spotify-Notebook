@@ -1,5 +1,4 @@
 # Spotify Notebook
-<<<<<<< HEAD
  This is Python section of the capstone on Spotify, mainly to explore data analysis techniques and presentation style with python.
 
  This serves to be a basis for the dashboards created.
@@ -35,4 +34,3 @@ This dataset is uploaded by Kaggle user **Yamaç Eren Ay**, you can find the ori
 - artists (List of artists mentioned)
 - release_date (Date of release mostly in yyyy-mm-dd format, however precision of date may vary)
 - name (Name of the song)
->>>>>>> 573a6164cbbe6633d2dd76ee8a8e72ceadf17609
